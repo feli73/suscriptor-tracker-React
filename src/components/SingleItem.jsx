@@ -21,7 +21,7 @@ const SingleItem = ({ price, type, id, eliminarItem, editItem }) => {
     editItem(id);
   }
 
-   const urlImage = `/src/images/${type}.png`
+   const urlImage = `/images/${type}.png`
 
   return (
       
