@@ -19,9 +19,17 @@ const SingleItem = ({ price, type, id, eliminarItem, editItem }) => {
   const HandleEdit = e => {
     e.preventDefault();
     editItem(id);
-  }
+  };
 
-   const urlImage = `/images/${type}.png`
+
+
+  const imageMap = {
+    disneyplus: "disneyPlus",
+    primevideos: "primeVideo",
+  };
+  
+  const urlImage = `/images/${imageMap[type.toLowerCase()] || type}.png`;
+  console.log(urlImage);
 
   return (
       
