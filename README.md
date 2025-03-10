@@ -38,4 +38,4 @@ El **Suscriptor Tracker** es una aplicación de front-end diseñada para llevar 
 
 ## Acceso
 
-1. Accede a la aplicación en tu navegador web en `http://localhost:3000`.
+1. Accede a la aplicación en tu navegador web en `https://suscriptor-tracker-react.vercel.app/`.
