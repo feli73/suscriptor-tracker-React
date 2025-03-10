@@ -7,12 +7,20 @@ El **Suscriptor Tracker** es una aplicación de front-end diseñada para llevar 
 - **Seguimiento de suscripciones**: Añade y administra tus suscripciones a diversos servicios.
 - **Control de presupuesto**: Establece un presupuesto mensual para tus suscripciones.
 - **Visualización de gastos**: Monitorea tus gastos disponibles y lo que ya has gastado.
-- **Alertas**: Recibirás alertas cuando te exedas del presupuesto disponible.
+- **Alertas**: Recibirás alertas cuando te excedas del presupuesto disponible.
 
-## Requisitos
-- Node.js
-- npm
-- React
+
+## Tecnologías Aplicadas
+
+**React** - Biblioteca principal para el desarrollo de la UI.
+- **Vite** - Entorno de desarrollo rápido y optimizado.
+- **JavaScript (ES6+)** - Lenguaje de programación utilizado.
+- **CSS** - Para el diseño y estilos.
+
+
+
+
+
 
 ## Instalación
 1. Clona este repositorio:
