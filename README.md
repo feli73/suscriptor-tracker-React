@@ -28,9 +28,6 @@ El **Suscriptor Tracker** es una aplicación de front-end diseñada para llevar 
     npm install
     ```
 
-## Uso
-1. Inicia la aplicación:
-   ```bash
-    npm start
-    ```
-2. Accede a la aplicación en tu navegador web en `http://localhost:3000`.
+## Acceso
+
+1. Accede a la aplicación en tu navegador web en `http://localhost:3000`.
